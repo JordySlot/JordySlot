@@ -8,7 +8,7 @@ I'm Jordy, a software engineering student at Saxion University of Applied Scienc
   <a href="https://www.linkedin.com/in/jordy-slot-a1514925b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href=mailto:"jordyslot3012@gmail.com">
+  <a href=mailto:jordyslot3012@gmail.com>
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"?>
     <a/>
 </div>
