@@ -13,7 +13,7 @@ I'm Jordy, a software engineering student at Saxion University of Applied Scienc
     <a/>
 </div>
 
-<H2> :hammer_and_wrench: Languages and Tools </H2>
+<H2> :hammer_and_wrench: Languages and Tools I have worked with </H2>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="50" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" width="50" />
